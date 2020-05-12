@@ -8,8 +8,8 @@ body{
 }
 .icon{
     position: relative;
-    top: -50px;
-    border-radius: 50%;
-    width: 100px;
-    margin-bottom: -50px;
+    background-color: rgb(238, 237, 237);
+}
+.temperature{
+    font-size: xx-large;
 }
